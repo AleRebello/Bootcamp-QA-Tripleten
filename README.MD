@@ -36,7 +36,9 @@
 - Api do App Urban Scooter
 
 #### Conclusão
-
-
+Obtive 100% de êxito em todas as tarefas, sprints e projetos
+propostos pelo curso: Analista de QA
 
 #### Comentário
+Gostei bastante da parte de SQL comandos e da parte de back End,
+que inclue "Postman".
