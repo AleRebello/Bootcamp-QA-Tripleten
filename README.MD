@@ -1,5 +1,4 @@
-# BootCamp Analista de QA   
-<img src="imagens\triple logo.jpg">
+# BootCamp Analista de QA      <img src="imagens\triple logo.jpg">
 
 #### Sprint 1 
 - Introdução à análise de QA
