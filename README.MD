@@ -1,7 +1,7 @@
 # BootCamp Analista de QA      
 <img src="imagens\triple logo.jpg">
 
-#### Sprint 1 
+#### Sprint 1
 - Introdução à análise de QA
 - O que são testes de software?
 - Desenvolvimento e Teste
@@ -35,9 +35,16 @@
 - Api do App Urban Scooter
 
 #### Conclusão
+Meu aprendizado foi:
+- O que são testes de software
+- Quais habilidades você precisa desenvolver para se tornar um analista de QA
+- Como criar testes para um site
+- O que fazer após encontrar um defeito
 Obtive 100% de êxito em todas as tarefas, sprints e projetos
 propostos pelo curso: Analista de QA
 
 #### Comentário
-Gostei bastante da parte de SQL comandos e da parte de back End,
-que inclue "Postman".
+Me identifiquei bastante na parte de SQL comandos, e na parte de back End,
+que inclue "Postman". Gostaria de poder ingressar nessa carreira, 
+como analista de controle de qualidade (ou de QA) para garantir que um produto 
+atenda a um padrão específico de qualidade. 
