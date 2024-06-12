@@ -34,6 +34,12 @@
 - App da Web Urban Scooter
 - Api do App Urban Scooter
 
+#### Ferramentas Utilizadas:
+Jira
+Postman
+SQL
+Java
+
 #### Conclusão
 Meu aprendizado foi:
 - O que são testes de software
