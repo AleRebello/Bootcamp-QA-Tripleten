@@ -35,10 +35,10 @@
 - Api do App Urban Scooter
 
 #### Ferramentas Utilizadas:
-Jira
-Postman
-SQL
-Java
+- Jira
+- Postman
+- SQL
+- Java
 
 #### Conclusão
 Meu aprendizado foi:
