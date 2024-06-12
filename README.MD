@@ -40,17 +40,16 @@
 - SQL
 - Java
 
-#### Conclusão
+#### Conclusões
 Meu aprendizado foi:
 - O que são testes de software
 - Quais habilidades você precisa desenvolver para se tornar um analista de QA
 - Como criar testes para um site
 - O que fazer após encontrar um defeito
-Obtive 100% de êxito em todas as tarefas, sprints e projetos
-propostos pelo curso: Analista de QA
 
-#### Comentário
+#### Comentários
 Me identifiquei bastante na parte de SQL comandos, e na parte de back End,
 que inclue "Postman". Gostaria de poder ingressar nessa carreira, 
 como analista de controle de qualidade (ou de QA) para garantir que um produto 
-atenda a um padrão específico de qualidade. 
+atenda a um padrão específico de qualidade. Obtive 100% de êxito em todas as tarefas, sprints e projetos
+propostos pelo curso: Analista de QA. Hoje tenho capacidade de ser um analista de Qualidade de Software.
