@@ -1,6 +1,8 @@
 # BootCamp Analista de QA      
 <img src="imagens\triple logo.jpg">
 
+Um sprint é um período de uma a três semanas que consiste em material teórico, tarefas na plataforma interativa e um projeto.
+
 #### Sprint 1
 - Introdução à análise de QA
 - O que são testes de software?
@@ -48,8 +50,10 @@ Meu aprendizado foi:
 - O que fazer após encontrar um defeito
 
 #### Comentários
-Me identifiquei bastante na parte de SQL comandos, e na parte de back End,
-que inclue "Postman". Gostaria de poder ingressar nessa carreira, 
+Me identifiquei bastante na parte de SQL comandos e da parte de back End.
+Usando o Postman, Jira, Endpoint.
+
+Gostaria de poder ingressar nessa carreira, 
 como analista de controle de qualidade (ou de QA) para garantir que um produto 
 atenda a um padrão específico de qualidade. Obtive 100% de êxito em todas as tarefas, sprints e projetos
 propostos pelo curso: Analista de QA. Hoje tenho capacidade de ser um analista de Qualidade de Software.
